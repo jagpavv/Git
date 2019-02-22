@@ -1,20 +1,9 @@
-//
-//  ViewController.swift
-//  Git
-//
-//  Created by Eunjin on 2/22/19.
-//  Copyright © 2019 EunjinKim. All rights reserved.
-//
+// number1
+// number2
+// number3
+// number4
+// number5
 
-import UIKit
-
-class ViewController: UIViewController {
-
-  override func viewDidLoad() {
-    super.viewDidLoad()
-    // Do any additional setup after loading the view, typically from a nib.
-  }
-
-
-}
-
+// great!
+// great!!
+// great!!!
